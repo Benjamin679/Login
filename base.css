@@ -10,47 +10,50 @@ hr {
     width: 100%;
 }
 h2 {
-    position: relative;
-    left: 500px;
-    width: 100px
+   width: 100px;
+   text-align: center;
 }
 h6 {
     position: relative;
-    left: 460px;
+    
     width: 160px
 }
 .textbox {
     position: relative;
-    left: 500px;
-    width: 300px
+    
+    width: 200px
 }
 .btm-links {
     position: relative;
-    left: 500px;
+    
     width: 100px
 }
 h4 {
     position: relative;
-    left: 500px;
+   
     width: 100px
 }
 .email {
     position: relative;
-    left: 500px;
+   
     width: 100px
 }
 .buttons {
     position: relative;
-    left: 500px;
+
     width: 100px
 }
 p {
     position: relative;
-    left: 500px;
+   
     width: 100px
 }
 .pie {
     position: relative;
-    left: 410px;
+  
     width: 270px
+}
+.header {
+  background: url(header.png) 50% no-repeat;
+  background-size: contain;
 }
