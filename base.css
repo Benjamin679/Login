@@ -6,7 +6,7 @@
     position: relative;
     left: 525px;
 }*/
-hr {
+/*hr {
     width: 100%;
 }
 h2 {
@@ -56,4 +56,8 @@ p {
 .header {
   background: url(header.png) 50% no-repeat;
   background-size: contain;
+}*/
+.button {
+    border: groove;
+    border-color: green;
 }
