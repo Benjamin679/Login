@@ -57,7 +57,3 @@ p {
   background: url(header.png) 50% no-repeat;
   background-size: contain;
 }*/
-.button {
-    border: groove;
-    border-color: green;
-}

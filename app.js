@@ -1,4 +1,4 @@
-/*var express = require('express');
+var express = require('express');
 var mongodb = require('mongodb').MongoClient;
 
 var app = express();
@@ -10,4 +10,4 @@ app.get('/', function(req, res){
 });
 app.listen(port, function(error){
     console.log('running server on port ' + port);
-});*/
+});
